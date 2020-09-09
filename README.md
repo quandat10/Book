@@ -1,6 +1,6 @@
-# testapp
+# Book App
 
-A new Flutter application.
+The main function help you choose a book and read it 
 
 ## Getting Started
 
